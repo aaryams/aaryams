@@ -6,7 +6,7 @@
 ---
 
 ## 🚀 About Me
-- 🎓 3rd-year **B.Tech in Artificial Intelligence & Data Science** at Muthoot Institute of Technology and Science (KTU University).  
+- 🎓 4th-year **B.Tech in Artificial Intelligence & Data Science** at Muthoot Institute of Technology and Science (KTU University).  
 - 🤖 Passionate about **machine learning algorithms, data training, and model building**.  
 - 📸 Creative at heart — love **photography** and blending tech with art.  
 - 🌐 Active **IEEE volunteer** — Tech Lead at MITS Computational Intelligence Club, Secretary of IEEE CS SBC MITS, and Student Ambassador for IEEEXtreme 18.0.  
