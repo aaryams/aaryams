@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 About Me  
-- 🎓 **B.Tech in Artificial Intelligence & Data Science** (2022–2026) — CGPA **8.58** at Muthoot Institute of Technology and Science.  
+- 🎓 **B.Tech in Artificial Intelligence & Data Science** (2022–2026) at Muthoot Institute of Technology and Science.  
 - 🤖 Passionate about **Machine Learning, Neural Networks, and NLP**.  
 - 💻 Experienced in building AI-powered solutions, web applications, and intelligent automation tools.  
 - 🌱 Always learning, always building — from **virtual mouse control systems** to **AI-driven content assistants**.  
