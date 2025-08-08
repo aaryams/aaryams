@@ -1,49 +1,65 @@
-# Hi there, I'm Aarya M S👋
+# 👋 Hi, I’m Aarya M S  
 
-🎯 **Tech Lead | AI/ML Enthusiast | IEEE Volunteer**  
-💡 Exploring the boundaries of Machine Learning, Data Science, and AI-driven solutions.
-
----
-
-## 🚀 About Me
-- 🎓 4th-year **B.Tech in Artificial Intelligence & Data Science** at Muthoot Institute of Technology and Science (KTU University).  
-- 🤖 Passionate about **machine learning algorithms, data training, and model building**.  
-- 📸 Creative at heart — love **photography** and blending tech with art.  
-- 🌐 Active **IEEE volunteer** — Tech Lead at MITS Computational Intelligence Club, Secretary of IEEE CS SBC MITS, and Student Ambassador for IEEEXtreme 18.0.  
+🎯 **AI/ML Enthusiast | Data Science Explorer | Problem Solver**  
+📍 Ernakulam, India | 📧 [aaryams2026@gmail.com](mailto:aaryams2026@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/aarya-m-s/) • [Portfolio](https://aaryams.github.io/my-portfolio/) • [GitHub](https://github.com/aaryams)  
 
 ---
 
-## 🛠 Skills & Tools
-- **Languages:** Python, C, HTML, CSS  
-- **ML & AI:** scikit-learn, Linear Regression, Logistic Regression, KNN, SVM, Decision Trees, Random Forests, Naive Bayes, K-Means  
-- **Web Development:** HTML, CSS  
-- **Other:** Chatbot development, Data Visualization, Problem-Solving, Analytical Thinking
+## 🚀 About Me  
+- 🎓 **B.Tech in Artificial Intelligence & Data Science** (2022–2026) — CGPA **8.58** at Muthoot Institute of Technology and Science.  
+- 🤖 Passionate about **Machine Learning, Neural Networks, and NLP**.  
+- 💻 Experienced in building AI-powered solutions, web applications, and intelligent automation tools.  
+- 🌱 Always learning, always building — from **virtual mouse control systems** to **AI-driven content assistants**.  
 
 ---
 
-## 📂 Featured Projects
-- 🧠 **Stroke Prediction Model** — Predicts stroke risk using patient data.  
-- ✉ **Email & SMS Detection** — Spam/ham classification with ML models.  
-- 📊 **Credit Card Clustering** — K-means-based customer segmentation.  
-- 💹 **Price Prediction Model** — Forecasts price movement based on historical data.  
+## 💡 Skills  
+**Programming:** Python, C, R (basic), Java  
+**Databases & Cloud:** SQL, MySQL, Basics of NoSQL  
+**Machine Learning & AI:** TensorFlow, Keras, PyTorch, Pandas, Matplotlib, Seaborn, NLP, Neural Networks, Large Language Models (LLMs)  
+**Web Development & Tools:** HTML, CSS, Flask, Power BI, GitLab  
+**Professional Skills:** Analytical Thinking, Communication, Problem-Solving  
 
 ---
 
-## 📜 Certifications
-- 🎓 **Python for Data Science** — NPTEL, IIT Madras  
-- 📊 **Data Science for Engineers** — NPTEL, IIT Madras  
-- 🧠 **Artificial Intelligence Fundamentals** — IBM  
-- 🗂 **Project Management Fundamentals** — IBM  
-- ☁ **Google Cloud Computing Foundations** — Google  
-- 🔐 **Foundations of Cybersecurity** — Google  
+## 🛠 Projects  
+- 🖱 **AI-Powered Virtual Mouse** — Gesture-based computer control using OpenCV & MediaPipe.  
+- ✍ **Scriptify AI** — AI scriptwriting assistant built with Gradio.  
+- 🛍 **MITS Store Management** — AI-powered stationery recommendation system for MITS students.  
+- 🤖 **Obstacle Avoidance Robot** — Autonomous navigation using intelligent sensors.  
+- 💬 **Friendly Chatbot** — NLP-trained chatbot that adapts to user preferences.  
 
 ---
 
-## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/aarya-m-s)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=About.me&logoColor=white)](https://aaryams.github.io/my-portfolio/)  
-[![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:aaryams2026@gmail.com)
+## 📜 Certifications  
+- **Data Analyst Bootcamp 2025** — Udemy  
+- **Deep Learning** — Infosys Springboard  
+- **Natural Language Processing** — Infosys Springboard  
+- **Data Analytics with Python** — IIT Roorkee (NPTEL)  
+- **Data Science for Engineers** — IIT Madras (NPTEL)  
+- **Python for Data Science** — IIT Madras (NPTEL)  
+- **AI Fundamentals** — IBM  
+- **Project Management Fundamentals** — IBM  
+- **Getting Started with AI** — IBM  
 
 ---
 
-⭐ *"Learning never stops — every dataset tells a story."*
+## 📚 Workshops & Competitions  
+- **Generative AI Workshop** — IEEE CS SBC MITS  
+- **Django Hands-on Workshop** — Zeropixel  
+- **Flask Workshop** — IEEE CS, Sree Buddha College  
+- **Satwa Hackathon** — Saintgits College of Engineering  
+- **Perspective 2.0** — IEEE SB GECBH  
+- **GenAI in Action** — iSkew Learning  
+- **Flipkart GRiD 6.0 Quiz**  
+
+---
+
+## 📊 GitHub Stats  
+![Aarya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaryams&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aaryams&layout=compact&theme=tokyonight)  
+
+---
+
+⭐ *"Code. Create. Innovate. Repeat."*
