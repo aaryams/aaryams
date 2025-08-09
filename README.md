@@ -2,9 +2,9 @@
 
 <div align="center">
   
-### 🤖 AI Engineer | 📊 Data Scientist | 💻 Full-Stack Developer
+### 🤖 AI Engineer | 📊 Data Science Enthusiast | 💻 ML Developer
 
-*Transforming ideas into intelligent solutions through code*
+*Passionate about turning data into actionable insights and intelligent solutions*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
@@ -16,12 +16,13 @@
 
 ## 🎯 About Me
 
-I'm a **B.Tech student in AI & Data Science** at Muthoot Institute of Technology and Science, passionate about leveraging cutting-edge technologies to solve real-world problems. With a strong foundation in machine learning, deep learning, and full-stack development, I create innovative solutions that make a difference.
+I'm a **final year B.Tech student in AI & Data Science** at Muthoot Institute of Technology and Science, deeply passionate about data science and leveraging cutting-edge technologies to extract meaningful insights from complex datasets. With a strong foundation in machine learning, deep learning, and statistical analysis, I transform raw data into actionable intelligence.
 
-- 🎓 Currently pursuing B.Tech in **Artificial Intelligence and Data Science** (CGPA: 8.58)
-- 🔭 Working on **AI-powered applications** and **intelligent automation systems**
-- 🌱 Learning advanced **LLMs**, **Neural Networks**, and **Computer Vision**
-- 💡 Interested in **NLP**, **Computer Vision**, and **Web Development**
+- 🎓 **Final Year** B.Tech in **Artificial Intelligence and Data Science**
+- 📊 **Data Science Passionate** - Love exploring patterns and insights in data
+- 🔭 Working on **Data-driven AI applications** and **Predictive Analytics**
+- 🌱 Learning advanced **Statistical Modeling**, **Data Visualization**, and **Big Data Analytics**
+- 💡 Interested in **Machine Learning**, **Data Mining**, **Business Intelligence**, and **Predictive Modeling**
 - 📍 Based in **Ernakulam, India**
 
 ---
@@ -42,18 +43,18 @@ I'm a **B.Tech student in AI & Data Science** at Muthoot Institute of Technology
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ### Web Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-### Databases & Tools
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+### 🔍 Data Analytics & Visualization
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 </div>
 
@@ -143,20 +144,21 @@ I'm a **B.Tech student in AI & Data Science** at Muthoot Institute of Technology
 
 ## 📈 What I'm Working On
 
-- 🔍 Exploring **Large Language Models** and their applications
-- 🎯 Building more **Computer Vision** projects
-- 🌐 Developing **Full-Stack AI applications**
+- 🔍 Exploring **Large Language Models** and **Advanced Analytics**
+- 🎯 Building more **Data Science** and **Machine Learning** projects
+- 🌐 Developing **AI-powered applications** with data-driven insights
 - 📚 Contributing to **Open Source** projects
-- 🚀 Preparing for **Industry Internships**
+- 🚀 Preparing for **Industry transition** and **Full-time opportunities**
 
 ---
 
 ## 💭 Fun Facts
 
-- 🎨 I love turning complex AI concepts into user-friendly applications
+- 🎨 I love transforming complex data into meaningful insights and stories
+- 📊 Passionate about discovering patterns and trends in datasets
 - 🌱 Always learning something new in the AI/ML space
 - 🤝 Open to collaborating on innovative projects
-- 🏆 Academic achiever with 97.4% in HSC and 8.58 CGPA in B.Tech
+- 🏆 Academic achiever with 97.4% in HSC 
 
 ---
 
@@ -164,7 +166,7 @@ I'm a **B.Tech student in AI & Data Science** at Muthoot Institute of Technology
 
 <div align="center">
 
-**💼 Open for collaborations, internships, and exciting AI projects!**
+**💼 Open for collaborations, full-time opportunities, and exciting AI projects!**
 
 Feel free to reach out if you want to discuss AI, share ideas, or collaborate on projects.
 
@@ -181,8 +183,8 @@ Feel free to reach out if you want to discuss AI, share ideas, or collaborate on
 <div align="center">
   
 ![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=brightgreen&style=flat-square)
-[![GitHub followers](https://img.shields.io/github/followers/your-username?label=Follow&style=social)](https://github.com/your-username)
+[![GitHub followers](https://img.shields.io/github/followers/your-username?label=Follow&style=social)](https://github.com/aaryams)
 
-⭐ **From [Aarya M S](https://github.com/your-username)** - *Building the future, one line of code at a time!*
+⭐ **From [Aarya M S](https://github.com/aaryams)** - *Building the future, one line of code at a time!*
 
 </div>
