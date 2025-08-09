@@ -138,7 +138,7 @@ I'm a **final year B.Tech student in AI & Data Science** at Muthoot Institute of
 
 ---
 
-## 🌟 Workshops & Events Participation
+##  Workshops & Events Participation
 
 **Recent Technical Workshops:**
 - **GenAI in Action** - iSkew Learning (Generative AI Applications)
@@ -156,24 +156,23 @@ I'm a **final year B.Tech student in AI & Data Science** at Muthoot Institute of
 ## 📈 Current Focus Areas
 
 **Learning & Development:**
-- 🔍 **Large Language Models (LLMs)** and Advanced Analytics
-- 🎯 **Deep Learning** architectures and optimization techniques
-- 🌐 **MLOps** and model deployment strategies
-- 📊 **Advanced Statistical Modeling** and hypothesis testing
+-  **Large Language Models (LLMs)** and Advanced Analytics
+-  **Deep Learning** architectures and optimization techniques
+-  **Advanced Statistical Modeling** and hypothesis testing
 
 **Project Development:**
-- 🚀 Building scalable **Data Science** and **Machine Learning** solutions
-- 🤖 Developing **AI-powered applications** with real-world impact
-- 📚 Contributing to **Open Source** data science projects
+-  Building scalable **Data Science** and **Machine Learning** solutions
+-  Developing **AI-powered applications** with real-world impact
+-  Contributing to **Open Source** data science projects
 
 **Career Preparation:**
-- 💼 Preparing for **Industry transition** and **Full-time opportunities**
-- 🎓 Completing final year academic requirements
-- 🤝 Seeking collaboration opportunities in AI/ML projects
+-  Preparing for **Industry transition** and **Full-time opportunities**
+-  Completing final year academic requirements
+-  Seeking collaboration opportunities in AI/ML projects
 
 ---
 
-## 🎯 Academic Achievements
+##  Academic Achievements
 
 **Educational Background:**
 - **B.Tech in AI & Data Science** - Muthoot Institute of Technology and Science (2022-2026)
@@ -190,7 +189,7 @@ I'm a **final year B.Tech student in AI & Data Science** at Muthoot Institute of
 
 ---
 
-## 📞 Contact Information
+##  Contact Information
 
 <div align="center">
 
