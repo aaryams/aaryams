@@ -170,8 +170,7 @@ I'm a **final year B.Tech student in AI & Data Science** at Muthoot Institute of
 
 Feel free to reach out if you want to discuss AI, share ideas, or collaborate on projects.
 
-📧 **Email**: aaryams2026@gmail.com  
-📱 **Phone**: +91 8330893306  
+📧 **Email**: aaryams2026@gmail.com   
 🌍 **Location**: Ernakulam, India
 
 *"The best way to predict the future is to invent it." - Alan Kay*
