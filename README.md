@@ -39,9 +39,9 @@
 - **Data Analytics with Python** — IIT Roorkee (NPTEL)  
 - **Data Science for Engineers** — IIT Madras (NPTEL)  
 - **Python for Data Science** — IIT Madras (NPTEL)  
-- **AI Fundamentals** — IBM  
-- **Project Management Fundamentals** — IBM  
-- **Getting Started with AI** — IBM  
+- **AI Fundamentals** — IBM Skillsbulid  
+- **Project Management Fundamentals** — IBM Skillsbulid  
+- **Getting Started with AI** — IBM Skillsbulid  
 
 ---
 
