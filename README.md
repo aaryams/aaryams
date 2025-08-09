@@ -176,7 +176,6 @@ I'm a **final year B.Tech student in AI & Data Science** at Muthoot Institute of
 
 **Educational Background:**
 - **B.Tech in AI & Data Science** - Muthoot Institute of Technology and Science (2022-2026)
-  - Current CGPA: **8.58/10**
   - Specialization: Artificial Intelligence and Data Science
   
 - **Higher Secondary Education** - Bishop Moore Higher Secondary School (2020-2022)
