@@ -14,20 +14,20 @@
 
 ---
 
-## 🎯 About Me
+##  About Me
 
 I'm a **final year B.Tech student in AI & Data Science** at Muthoot Institute of Technology and Science, deeply passionate about data science and leveraging cutting-edge technologies to extract meaningful insights from complex datasets. With a strong foundation in machine learning, deep learning, and statistical analysis, I transform raw data into actionable intelligence.
 
 **Current Status:**
-- 🎓 **Final Year** B.Tech in **Artificial Intelligence and Data Science** (CGPA: 8.58/10)
+-  **Final Year** B.Tech in **Artificial Intelligence and Data Science** (CGPA: 8.58/10)
 - 📍 **Location:** Ernakulam, Kerala, India
-- 📊 **Passion:** Data Science, Machine Learning, and AI Applications
+-  **Passion:** Data Science, Machine Learning, and AI Applications
 
 **Areas of Interest:**
-- 🔭 **Data-driven AI applications** and **Predictive Analytics**
-- 🌱 **Statistical Modeling**, **Data Visualization**, and **Big Data Analytics**
-- 💡 **Machine Learning**, **Data Mining**, **Business Intelligence**, and **Predictive Modeling**
-- 🗄️ **Big Data Technologies** including **Hadoop ecosystem**, **Hive**, and **Pig**
+-  **Data-driven AI applications** and **Predictive Analytics**
+-  **Statistical Modeling**, **Data Visualization**, and **Big Data Analytics**
+-  **Machine Learning**, **Data Mining**, **Business Intelligence**, and **Predictive Modeling**
+- 🗄 **Big Data Technologies** including **Hadoop ecosystem**, **Hive**, and **Pig**
 
 ---
 
@@ -73,7 +73,7 @@ I'm a **final year B.Tech student in AI & Data Science** at Muthoot Institute of
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### 1. 🖱️ AI-Powered Virtual Mouse
 **Technology Stack:** OpenCV, MediaPipe, Python  
@@ -144,7 +144,7 @@ I'm a **final year B.Tech student in AI & Data Science** at Muthoot Institute of
 
 ---
 
-## 🌟 Workshops & Events Participation
+##  Workshops & Events Participation
 
 **Recent Technical Workshops:**
 - **GenAI in Action** - iSkew Learning (Generative AI Applications)
@@ -162,29 +162,27 @@ I'm a **final year B.Tech student in AI & Data Science** at Muthoot Institute of
 ## 📈 Current Focus Areas
 
 **Learning & Development:**
-- 🔍 **Large Language Models (LLMs)** and Advanced Analytics
-- 🎯 **Deep Learning** architectures and optimization techniques
-- 🌐 **MLOps** and model deployment strategies
-- 📊 **Advanced Statistical Modeling** and hypothesis testing
-- 🗄️ **Big Data Processing** with Hadoop, Hive, and Pig
+-  **Large Language Models (LLMs)** and Advanced Analytics
+-  **Deep Learning** architectures and optimization techniques
+-  **Advanced Statistical Modeling** and hypothesis testing
+-  **Big Data Processing** with Hadoop, Hive, and Pig
 
 **Project Development:**
-- 🚀 Building scalable **Data Science** and **Machine Learning** solutions
-- 🤖 Developing **AI-powered applications** with real-world impact
-- 📚 Contributing to **Open Source** data science projects
+-  Building scalable **Data Science** and **Machine Learning** solutions
+-  Developing **AI-powered applications** with real-world impact
+-  Contributing to **Open Source** data science projects
 
 **Career Preparation:**
-- 💼 Preparing for **Industry transition** and **Full-time opportunities**
-- 🎓 Completing final year academic requirements
-- 🤝 Seeking collaboration opportunities in AI/ML projects
+-  Preparing for **Industry transition** and **Full-time opportunities**
+-  Completing final year academic requirements
+-  Seeking collaboration opportunities in AI/ML projects
 
 ---
 
-## 🎯 Academic Achievements
+##  Academic Achievements
 
 **Educational Background:**
 - **B.Tech in AI & Data Science** - Muthoot Institute of Technology and Science (2022-2026)
-  - Current CGPA: **8.58/10**
   - Specialization: Artificial Intelligence and Data Science
   
 - **Higher Secondary Education** - Bishop Moore Higher Secondary School (2020-2022)
@@ -205,7 +203,7 @@ I'm a **final year B.Tech student in AI & Data Science** at Muthoot Institute of
 
 **Professional Contact:**
 - 📧 **Email:** [aaryams2026@gmail.com](mailto:aaryams2026@gmail.com)
-- 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/aarya-m-s/)
+-  **LinkedIn:** [Connect with me](https://www.linkedin.com/in/aarya-m-s/)
 - 🌐 **Portfolio:** [View my work](https://aaryams.github.io/my-portfolio/)
 - 📍 **Location:** Ernakulam, Kerala, India
 
