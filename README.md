@@ -98,14 +98,14 @@ I'm a **final year B.Tech student in AI & Data Science** at Muthoot Institute of
 
 <div align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&langs_count=7&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aaryams&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaryams&layout=compact&langs_count=7&theme=tokyonight"/>
 
 </div>
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aaryams&theme=tokyonight)](https://git.io/streak-stats)
 
 </div>
 
@@ -182,8 +182,8 @@ Feel free to reach out if you want to discuss AI, share ideas, or collaborate on
 
 <div align="center">
   
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=brightgreen&style=flat-square)
-[![GitHub followers](https://img.shields.io/github/followers/your-username?label=Follow&style=social)](https://github.com/aaryams)
+![Profile Views](https://komarev.com/ghpvc/?username=aaryams&color=brightgreen&style=flat-square)
+[![GitHub followers](https://img.shields.io/github/followers/aaryams?label=Follow&style=social)](https://github.com/aaryams)
 
 ⭐ **From [Aarya M S](https://github.com/aaryams)** - *Building the future, one line of code at a time!*
 
