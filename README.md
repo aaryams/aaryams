@@ -73,9 +73,7 @@
 ---
 
 ##  Profile Insights  
-![Profile Views](https://komarev.com/ghpvc/?username=aaryams&color=blue)  
-![GitHub Stars](https://img.shields.io/github/stars/aaryams?style=social)  
-![GitHub Followers](https://img.shields.io/github/followers/aaryams?style=social)  
+![Profile Views](https://komarev.com/ghpvc/?username=aaryams&color=blue)   ![GitHub Stars](https://img.shields.io/github/stars/aaryams?style=social)   ![GitHub Followers](https://img.shields.io/github/followers/aaryams?style=social)  
 
 ---
 
