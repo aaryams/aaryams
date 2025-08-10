@@ -18,7 +18,7 @@
 
 ## 💡 Skills  
 **Programming:** Python, C, R (basic), Java  
-**Databases & Cloud:** SQL, MySQL, Basics of NoSQL, Hadoop, Hive (basic), Pig  
+**Databases & Cloud:** SQL, MySQL, Basics of NoSQL  
 **Machine Learning & AI:** TensorFlow, Keras, PyTorch, Pandas, Matplotlib, Seaborn, NLP, Neural Networks, Large Language Models (LLMs)  
 **Web Development & Tools:** HTML, CSS, Flask, Power BI, GitLab  
 **Professional Skills:** Analytical Thinking, Communication, Problem-Solving  
@@ -31,7 +31,6 @@
 
 ---
 
-
 ## 🛠 Projects  
 - 🖱 **AI-Powered Virtual Mouse** — Gesture-based computer control using OpenCV & MediaPipe.  
 - ✍ **Scriptify AI** — AI scriptwriting assistant built with Gradio.  
@@ -39,8 +38,8 @@
 - 🤖 **Obstacle Avoidance Robot** — Autonomous navigation using intelligent sensors.  
 - 💬 **Friendly Chatbot** — NLP-trained chatbot that adapts to user preferences.  
 
----
 
+---
 
 ## 📌 Featured Repositories  
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aaryams&repo=my-portfolio&theme=tokyonight)](https://github.com/aaryams/my-portfolio)  
