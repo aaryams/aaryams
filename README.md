@@ -18,12 +18,19 @@
 
 ## 💡 Skills  
 **Programming:** Python, C, R (basic), Java  
-**Databases & Cloud:** SQL, MySQL, Basics of NoSQL  
+**Databases & Cloud:** SQL, MySQL, Basics of NoSQL, Hadoop, Hive (basic), Pig  
 **Machine Learning & AI:** TensorFlow, Keras, PyTorch, Pandas, Matplotlib, Seaborn, NLP, Neural Networks, Large Language Models (LLMs)  
 **Web Development & Tools:** HTML, CSS, Flask, Power BI, GitLab  
 **Professional Skills:** Analytical Thinking, Communication, Problem-Solving  
 
 ---
+
+## 🔬 Currently Working On  
+- 💃 **Bharatanatyam Mudra Recognition** — Computer vision-based dance gesture detection.  
+- 🧠 **fMRI-to-Image Reconstruction** — Brain-to-image translation using deep learning.  
+
+---
+
 
 ## 🛠 Projects  
 - 🖱 **AI-Powered Virtual Mouse** — Gesture-based computer control using OpenCV & MediaPipe.  
@@ -34,20 +41,29 @@
 
 ---
 
-## 📚 Workshops & Competitions  
-- **Generative AI Workshop** — IEEE CS SBC MITS  
-- **Django Hands-on Workshop** — Zeropixel  
-- **Flask Workshop** — IEEE CS, Sree Buddha College  
-- **Satwa Hackathon** — Saintgits College of Engineering  
-- **Perspective 2.0** — IEEE SB GECBH  
-- **GenAI in Action** — iSkew Learning  
-- **Flipkart GRiD 6.0 Quiz**  
+
+## 📌 Featured Repositories  
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aaryams&repo=my-portfolio&theme=tokyonight)](https://github.com/aaryams/my-portfolio)  
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aaryams&repo=YOUR_REPO_NAME&theme=tokyonight)](https://github.com/aaryams/YOUR_REPO_NAME)  
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats & Activity  
 ![Aarya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaryams&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aaryams&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://streak-stats.demolab.com?user=aaryams&theme=tokyonight)  
+
+---
+
+## 📈 Activity Graph  
+[![Aarya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aaryams&theme=tokyo-night)](https://github.com/aaryams)  
+
+---
+
+## ⭐ Profile Insights  
+![Profile Views](https://komarev.com/ghpvc/?username=aaryams&color=blue)  
+![GitHub Stars](https://img.shields.io/github/stars/aaryams?style=social)  
+![GitHub Followers](https://img.shields.io/github/followers/aaryams?style=social)  
 
 ---
 
