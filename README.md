@@ -56,8 +56,8 @@
  
 ## 📌 Featured Repositories
 ## 📌 Latest Repositories  
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=aaryams&repo=REPO_NAME_1&theme=tokyonight)](https://github.com/aaryams/Scritify-AI)  
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=aaryams&repo=REPO_NAME_2&theme=tokyonight)](https://github.com/aaryams/AI-virtual-Mouse)
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=aaryams&repo=REPO_NAME_1&theme=tokyonight)](https://github.com/aaryams/AI-Virtual-Mouse)  
+[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=aaryams&repo=REPO_NAME_2&theme=tokyonight)](https://github.com/aaryams/my-portfolio )
 
 
 
