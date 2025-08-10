@@ -17,12 +17,44 @@
 ---
 
 ## 💡 Skills  
-**Programming:** Python, C, R (basic), Java  
-**Databases & Cloud:** SQL, MySQL, Basics of NoSQL 
-**Big Data Tools:** Hadoop, Hive (basic), Pig (basic)
-**Machine Learning & AI:** TensorFlow, Keras, PyTorch, Pandas, Matplotlib, Seaborn, NLP, Neural Networks, Large Language Models (LLMs)  
-**Web Development & Tools:** HTML, CSS, Flask, Power BI, GitLab  
-**Professional Skills:** Analytical Thinking, Communication, Problem-Solving  
+
+**Programming:**  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)  
+![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)  
+
+**Databases & Cloud:**  
+![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)  
+![NoSQL](https://img.shields.io/badge/NoSQL-4DB33D?logo=mongodb&logoColor=white)  
+
+**Big Data Tools:**  
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?logo=apache&logoColor=white)  
+![Hive](https://img.shields.io/badge/Hive-FDEE21?logo=apachehive&logoColor=black)  
+![Pig](https://img.shields.io/badge/Pig-F5A623?logo=apache&logoColor=white)  
+
+**Machine Learning & AI:**  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)  
+![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white)  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=python&logoColor=white)  
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?logo=python&logoColor=white)  
+![NLP](https://img.shields.io/badge/NLP-FF4088?logo=spacy&logoColor=white)  
+![LLM](https://img.shields.io/badge/LLMs-0A66C2?logo=openai&logoColor=white)  
+
+**Web Development & Tools:**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)  
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)  
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black)  
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white)  
+
+**Professional Skills:**  
+![Analytical Thinking](https://img.shields.io/badge/Analytical%20Thinking-0A66C2?logo=googleanalytics&logoColor=white)  
+![Communication](https://img.shields.io/badge/Communication-FF6F00?logo=googlechat&logoColor=white)  
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-FF0000?logo=googlesheets&logoColor=white)  
 
 ---
 
@@ -41,9 +73,8 @@
 
 
 ---
-
-## 📌 Featured Repositories  
-## 📌 Featured Repositories (Auto-Updated)
+ 
+## 📌 Featured Repositories
 [![Aarya's GitHub Repos](https://github-readme-stats.vercel.app/api?username=aaryams&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)](https://github.com/aaryams?tab=repositories)
 
 
