@@ -9,8 +9,8 @@
 ---
 
 ## 🚀 About Me  
-- 🎓 **B.Tech in Artificial Intelligence & Data Science** (2022–2026) — CGPA **8.58** at Muthoot Institute of Technology and Science.  
-- 🤖 Passionate about **Machine Learning, Neural Networks, and NLP**.  
+- 🎓 **B.Tech Final student, specializing in Artificial Intelligence & Data Science** (2022–2026) at Muthoot Institute of Technology and Science.  
+- 🤖 Passionate about **Machine Learning, Neural Networks, and Data Science**.  
 - 💻 Experienced in building AI-powered solutions, web applications, and intelligent automation tools.  
 - 🌱 Always learning, always building — from **virtual mouse control systems** to **AI-driven content assistants**.  
 
@@ -18,7 +18,8 @@
 
 ## 💡 Skills  
 **Programming:** Python, C, R (basic), Java  
-**Databases & Cloud:** SQL, MySQL, Basics of NoSQL  
+**Databases & Cloud:** SQL, MySQL, Basics of NoSQL 
+**Big Data Tools:** Hadoop, Hive (basic), Pig (basic)
 **Machine Learning & AI:** TensorFlow, Keras, PyTorch, Pandas, Matplotlib, Seaborn, NLP, Neural Networks, Large Language Models (LLMs)  
 **Web Development & Tools:** HTML, CSS, Flask, Power BI, GitLab  
 **Professional Skills:** Analytical Thinking, Communication, Problem-Solving  
@@ -42,8 +43,9 @@
 ---
 
 ## 📌 Featured Repositories  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aaryams&repo=my-portfolio&theme=tokyonight)](https://github.com/aaryams/my-portfolio)  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aaryams&repo=YOUR_REPO_NAME&theme=tokyonight)](https://github.com/aaryams/YOUR_REPO_NAME)  
+## 📌 Featured Repositories (Auto-Updated)
+[![Aarya's GitHub Repos](https://github-readme-stats.vercel.app/api?username=aaryams&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)](https://github.com/aaryams?tab=repositories)
+
 
 ---
 
