@@ -55,7 +55,7 @@
 ---
  
 ## 📌 Featured Repositories
-## 📌 Latest Repositories  
+
 [![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=aaryams&repo=AI-Virtual-Mouse&theme=tokyonight)](https://github.com/aaryams/AI-Virtual-Mouse)  
 [![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=aaryams&repo=my-portfolio&theme=tokyonight)](https://github.com/aaryams/my-portfolio )
 
