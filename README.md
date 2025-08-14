@@ -1,4 +1,4 @@
-<!-- Typing animation -->
+c<!-- Typing animation -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=3CB371&lines=Hi+I'm+Aarya+M+S;AI%2FML+Enthusiast;Data+Science+Explorer;Problem+Solver)](https://git.io/typing-svg)
 
 # 👋 Welcome to My GitHub  
@@ -72,6 +72,11 @@
 
 ##  Activity Graph  
 [![Aarya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aaryams&theme=tokyo-night)](https://github.com/aaryams)  
+
+
+## 🐍 Contribution Graph — Animated
+
+![snake animation](https://raw.githubusercontent.com/aaryams/aaryams/output/github-contribution-grid-snake.svg)
 
 ---
 
