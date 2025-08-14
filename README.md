@@ -75,16 +75,6 @@
 
 ---
 
-
-## 🐍 Contribution Graph — Animated  
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aaryams/aaryams/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aaryams/aaryams/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/aaryams/aaryams/output/github-contribution-grid-snake.svg" />
-</picture>  
-
----
-
 ##  Profile Insights  
 ![Profile Views](https://komarev.com/ghpvc/?username=aaryams&color=blue)   ![GitHub Stars](https://img.shields.io/github/stars/aaryams?style=social)   ![GitHub Followers](https://img.shields.io/github/followers/aaryams?style=social)  
 
