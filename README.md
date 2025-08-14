@@ -73,10 +73,15 @@ c<!-- Typing animation -->
 ##  Activity Graph  
 [![Aarya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aaryams&theme=tokyo-night)](https://github.com/aaryams)  
 
+---
 
-## 🐍 Contribution Graph — Animated
 
-![snake animation](https://raw.githubusercontent.com/aaryams/aaryams/output/github-contribution-grid-snake.svg)
+## 🐍 Contribution Graph — Animated  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aaryams/aaryams/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aaryams/aaryams/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/aaryams/aaryams/output/github-contribution-grid-snake.svg" />
+</picture>  
 
 ---
 
