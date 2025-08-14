@@ -1,4 +1,4 @@
-c<!-- Typing animation -->
+<!-- Typing animation -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=3CB371&lines=Hi+I'm+Aarya+M+S;AI%2FML+Enthusiast;Data+Science+Explorer;Problem+Solver)](https://git.io/typing-svg)
 
 # 👋 Welcome to My GitHub  
