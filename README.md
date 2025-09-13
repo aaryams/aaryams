@@ -1,83 +1,89 @@
-<!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=3CB371&lines=Hi+I'm+Aarya+M+S;AI%2FML+Enthusiast;Data+Science+Explorer;Problem+Solver)](https://git.io/typing-svg)
+# 👋 Hi, I'm Aarya M S!
 
-# 👋 Welcome to My GitHub  
-
-📍 Ernakulam, India | 📧 [aaryams2026@gmail.com](mailto:aaryams2026@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/aarya-m-s/) • [Portfolio](https://aaryams.github.io/my-portfolio/) • [GitHub](https://github.com/aaryams)  
+### AI/ML Enthusiast | Data Science Explorer | Problem Solver
+---
+<p align="center">
+  <a href="https://www.linkedin.com/in/aarya-m-s/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://aaryams.github.io/my-portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-1E90FF?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="mailto:aaryams2026@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
 ---
 
-##  About Me  
-- 🎓 **B.Tech Final student, specializing in Artificial Intelligence & Data Science** (2022–2026) at Muthoot Institute of Technology and Science.  
-- 🤖 Passionate about **Machine Learning, Neural Networks, and Data Science**.  
-- 💻 Experienced in building AI-powered solutions, web applications, and intelligent automation tools.  
-- 🌱 Always learning, always building — from **virtual mouse control systems** to **AI-driven content assistants**.  
+## 👨‍💻 About Me
+
+I'm a final-year B.Tech student specializing in **Artificial Intelligence & Data Science** at Muthoot Institute of Technology and Science. I am passionate about building intelligent systems and solving complex problems using **Machine Learning, Neural Networks, and Data Science**. My experience spans creating AI-powered solutions, web applications, and leveraging data to drive insights.
 
 ---
 
-##  Skills  
+## 🛠️ Skills & Technologies
 
-**Programming:**  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)   ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)   ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)   ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)  
-
-**Databases & Cloud:**  
-![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)   ![NoSQL](https://img.shields.io/badge/NoSQL-4DB33D?logo=mongodb&logoColor=white)  
-
-**Big Data Tools:**  
-![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?logo=apache&logoColor=white)   ![Hive](https://img.shields.io/badge/Hive-FDEE21?logo=apachehive&logoColor=black)   ![Pig](https://img.shields.io/badge/Pig-F5A623?logo=apache&logoColor=white)  
-
-**Machine Learning & AI:**  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)   ![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white)   ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)   ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)   ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=python&logoColor=white)   ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?logo=python&logoColor=white)   ![NLP](https://img.shields.io/badge/NLP-FF4088?logo=spacy&logoColor=white)   ![LLM](https://img.shields.io/badge/LLMs-0A66C2?logo=openai&logoColor=white)  
-
-**Web Development & Tools:**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)   ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)   ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black)   ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white)  
-
-**Professional Skills:**  
-![Analytical Thinking](https://img.shields.io/badge/Analytical%20Thinking-0A66C2?logo=googleanalytics&logoColor=white)   ![Communication](https://img.shields.io/badge/Communication-FF6F00?logo=googlechat&logoColor=white)   ![Problem Solving](https://img.shields.io/badge/Problem%20Solving-FF0000?logo=googlesheets&logoColor=white)  
+| Category | Skills & Tools |
+| :--- | :--- |
+| **Programming** | `Python` `C` `R` `Java` |
+| **ML & Data Science** | `Pandas` `NumPy` `Matplotlib` `Seaborn` `Scikit-learn` `TensorFlow` `Keras` `PyTorch` |
+| **Databases** | `SQL` `MySQL` `NoSQL` |
+| **Big Data** | `Hadoop` `Hive` `Pig` |
+| **Web & Tools** | `HTML` `CSS` `Flask` `Power BI` `Git` |
+| **Core Concepts** | `Computer Vision` `NLP` `LLMs` `Deep Learning` |
 
 ---
 
-##  Currently Working On  
--  **Bharatanatyam Mudra Recognition** — Computer vision-based dance gesture detection.  
--  **fMRI-to-Image Reconstruction** — Brain-to-image translation using deep learning.  
+## 🚀 Projects & Contributions
+
+### Featured Projects
+
+* **AI-Powered Virtual Mouse**
+    * **Description:** Controls the computer cursor with hand gestures using **OpenCV** and **MediaPipe**.
+    * **Repo:** [![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=aaryams&repo=AI-Virtual-Mouse&theme=tokyonight)](https://github.com/aaryams/AI-Virtual-Mouse)
+
+* **Scriptify AI**
+    * **Description:** An AI scriptwriting assistant powered by **Large Language Models (LLMs)** and built with **Gradio**.
+    * **Repo:** [![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=aaryams&repo=my-portfolio&theme=tokyonight)](https://github.com/aaryams/my-portfolio)
+
+### Other Projects
+* **Bharatanatyam Mudra Recognition:** A computer vision-based project to recognize and classify Bharatanatyam dance gestures.
+* **fMRI-to-Image Reconstruction:** An experimental deep learning project focused on translating brain activity data into visual images.
+* **MITS Store Management:** An AI-powered system that recommends stationery based on student preferences.
 
 ---
 
-##  Projects  
--  **AI-Powered Virtual Mouse** — Gesture-based computer control using OpenCV & MediaPipe.  
--  **Scriptify AI** — AI scriptwriting assistant built with Gradio.  
--  **MITS Store Management** — AI-powered stationery recommendation system for MITS students.  
--  **Obstacle Avoidance Robot** — Autonomous navigation using intelligent sensors.  
--  **Friendly Chatbot** — NLP-trained chatbot that adapts to user preferences.  
+## 🏆 GitHub Trophies
 
-
----
- 
-## 📌 Featured Repositories
-
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=aaryams&repo=AI-Virtual-Mouse&theme=tokyonight)](https://github.com/aaryams/AI-Virtual-Mouse)  
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=aaryams&repo=my-portfolio&theme=tokyonight)](https://github.com/aaryams/my-portfolio )
-
-
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=aaryams&theme=tokyonight&no-bg=true" alt="Aarya's GitHub Trophies">
+  </a>
+</div>
 
 ---
 
-##  GitHub Stats & Activity  
-![Aarya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaryams&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aaryams&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com?user=aaryams&theme=tokyonight)  
+## 📈 My GitHub Stats
+
+<div align="center">
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=aaryams&show_icons=true&theme=tokyonight" alt="Aarya's GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaryams&layout=compact&theme=tokyonight" alt="Top Languages">
+  </p>
+  <p align="center">
+    <img src="https://streak-stats.demolab.com?user=aaryams&theme=tokyonight" alt="GitHub Streak">
+  </p>
+</div>
 
 ---
 
-##  Activity Graph  
-[![Aarya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aaryams&theme=tokyo-night)](https://github.com/aaryams)  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aaryams&color=blue" alt="Profile Views"> 
+  <img src="https://img.shields.io/github/stars/aaryams?style=social" alt="GitHub Stars"> 
+  <img src="https://img.shields.io/github/followers/aaryams?style=social" alt="GitHub Followers">
+</p>
 
----
-
-##  Profile Insights  
-![Profile Views](https://komarev.com/ghpvc/?username=aaryams&color=blue)   ![GitHub Stars](https://img.shields.io/github/stars/aaryams?style=social)   ![GitHub Followers](https://img.shields.io/github/followers/aaryams?style=social)  
-
----
-
- *"Code. Create. Innovate. Repeat."*
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aaryams&theme=tokyo-night" alt="GitHub Activity Graph">
+</div>
