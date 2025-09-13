@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=3CB371&lines=Hi+I'm+Aarya+M+S;AI%2FML+Enthusiast;Data+Science+Explorer;Problem+Solver)](https://git.io/typing-svg)
+
 # 👋 Hi, I'm Aarya M S!
 
 ### AI/ML Enthusiast | Data Science Explorer | Problem Solver
@@ -19,6 +21,14 @@
 ## 👨‍💻 About Me
 
 I'm a final-year B.Tech student specializing in **Artificial Intelligence & Data Science** at Muthoot Institute of Technology and Science. I am passionate about building intelligent systems and solving complex problems using **Machine Learning, Neural Networks, and Data Science**. My experience spans creating AI-powered solutions, web applications, and leveraging data to drive insights.
+
+---
+
+## 📊 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aaryams&theme=tokyo-night" alt="GitHub Activity Graph">
+</div>
 
 ---
 
@@ -83,7 +93,3 @@ I'm a final-year B.Tech student specializing in **Artificial Intelligence & Data
   <img src="https://img.shields.io/github/stars/aaryams?style=social" alt="GitHub Stars"> 
   <img src="https://img.shields.io/github/followers/aaryams?style=social" alt="GitHub Followers">
 </p>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aaryams&theme=tokyo-night" alt="GitHub Activity Graph">
-</div>
