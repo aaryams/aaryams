@@ -49,17 +49,15 @@ I'm a final-year B.Tech student specializing in **Artificial Intelligence & Data
 
 ### Featured Projects
 
+* **Bharatanatyam Mudra Recognition:** A computer vision-based project to recognize and classify Bharatanatyam dance gestures.
+* **fMRI-to-Image Reconstruction:** An experimental deep learning project focused on translating brain activity data into visual images.
+  
 * **AI-Powered Virtual Mouse**
     * **Description:** Controls the computer cursor with hand gestures using **OpenCV** and **MediaPipe**.
-    * **Repo:** [![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=aaryams&repo=AI-Virtual-Mouse&theme=tokyonight)](https://github.com/aaryams/AI-Virtual-Mouse)
 
 * **Scriptify AI**
     * **Description:** An AI scriptwriting assistant powered by **Large Language Models (LLMs)** and built with **Gradio**.
-    * **Repo:** [![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=aaryams&repo=my-portfolio&theme=tokyonight)](https://github.com/aaryams/my-portfolio)
 
-### Other Projects
-* **Bharatanatyam Mudra Recognition:** A computer vision-based project to recognize and classify Bharatanatyam dance gestures.
-* **fMRI-to-Image Reconstruction:** An experimental deep learning project focused on translating brain activity data into visual images.
 * **MITS Store Management:** An AI-powered system that recommends stationery based on student preferences.
 
 ---
